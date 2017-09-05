@@ -13,7 +13,7 @@ import java.util.Set;
 /**
  * Created by ming-yi on 2017/6/27.
  */
-
+// check this line//
 public class UserTypeClick extends AppTempleteParser {
     private String TAG = "App_User";
     String app = null;
